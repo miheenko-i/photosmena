@@ -1,0 +1,597 @@
+{
+  "assets": [
+    {
+      "id": "open-arms",
+      "src": "/poses/open-arms.jpg",
+      "thumb": "/poses/open-arms-thumb.jpg",
+      "sourceFile": "примеры настроения и динамики позинга.png",
+      "row": 1,
+      "col": 1,
+      "box": [
+        215,
+        25,
+        769,
+        733
+      ],
+      "size": [
+        554,
+        708
+      ],
+      "thumbSize": [
+        250,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "quiet-adjustment",
+      "src": "/poses/quiet-adjustment.jpg",
+      "thumb": "/poses/quiet-adjustment-thumb.jpg",
+      "sourceFile": "примеры настроения и динамики позинга.png",
+      "row": 1,
+      "col": 2,
+      "box": [
+        915,
+        25,
+        1470,
+        733
+      ],
+      "size": [
+        555,
+        708
+      ],
+      "thumbSize": [
+        251,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "hip-shift",
+      "src": "/poses/hip-shift.jpg",
+      "thumb": "/poses/hip-shift-thumb.jpg",
+      "sourceFile": "примеры настроения и динамики позинга.png",
+      "row": 1,
+      "col": 3,
+      "box": [
+        1616,
+        25,
+        2170,
+        733
+      ],
+      "size": [
+        554,
+        708
+      ],
+      "thumbSize": [
+        250,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "joyful-sway",
+      "src": "/poses/joyful-sway.jpg",
+      "thumb": "/poses/joyful-sway-thumb.jpg",
+      "sourceFile": "примеры настроения и динамики позинга.png",
+      "row": 2,
+      "col": 1,
+      "box": [
+        215,
+        761,
+        769,
+        1469
+      ],
+      "size": [
+        554,
+        708
+      ],
+      "thumbSize": [
+        250,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "raised-knee",
+      "src": "/poses/raised-knee.jpg",
+      "thumb": "/poses/raised-knee-thumb.jpg",
+      "sourceFile": "примеры настроения и динамики позинга.png",
+      "row": 2,
+      "col": 2,
+      "box": [
+        915,
+        761,
+        1470,
+        1469
+      ],
+      "size": [
+        555,
+        708
+      ],
+      "thumbSize": [
+        251,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "playful-collar",
+      "src": "/poses/playful-collar.jpg",
+      "thumb": "/poses/playful-collar-thumb.jpg",
+      "sourceFile": "примеры настроения и динамики позинга.png",
+      "row": 2,
+      "col": 3,
+      "box": [
+        1616,
+        761,
+        2170,
+        1469
+      ],
+      "size": [
+        554,
+        708
+      ],
+      "thumbSize": [
+        250,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "low-squat",
+      "src": "/poses/low-squat.jpg",
+      "thumb": "/poses/low-squat-thumb.jpg",
+      "sourceFile": "примеры настроения и динамикипозинга.png",
+      "row": 1,
+      "col": 1,
+      "box": [
+        25,
+        12,
+        581,
+        722
+      ],
+      "size": [
+        556,
+        710
+      ],
+      "thumbSize": [
+        251,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "casual-standing",
+      "src": "/poses/casual-standing.jpg",
+      "thumb": "/poses/casual-standing-thumb.jpg",
+      "sourceFile": "примеры настроения и динамикипозинга.png",
+      "row": 1,
+      "col": 2,
+      "box": [
+        600,
+        12,
+        1155,
+        722
+      ],
+      "size": [
+        555,
+        710
+      ],
+      "thumbSize": [
+        250,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "asymmetric-squat",
+      "src": "/poses/asymmetric-squat.jpg",
+      "thumb": "/poses/asymmetric-squat-thumb.jpg",
+      "sourceFile": "примеры настроения и динамикипозинга.png",
+      "row": 1,
+      "col": 3,
+      "box": [
+        1174,
+        12,
+        1730,
+        722
+      ],
+      "size": [
+        556,
+        710
+      ],
+      "thumbSize": [
+        251,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "seated-catalog",
+      "src": "/poses/seated-catalog.jpg",
+      "thumb": "/poses/seated-catalog-thumb.jpg",
+      "sourceFile": "примеры настроения и динамикипозинга.png",
+      "row": 2,
+      "col": 1,
+      "box": [
+        25,
+        751,
+        581,
+        1460
+      ],
+      "size": [
+        556,
+        709
+      ],
+      "thumbSize": [
+        251,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "floor-editorial",
+      "src": "/poses/floor-editorial.jpg",
+      "thumb": "/poses/floor-editorial-thumb.jpg",
+      "sourceFile": "примеры настроения и динамикипозинга.png",
+      "row": 2,
+      "col": 2,
+      "box": [
+        600,
+        751,
+        1155,
+        1460
+      ],
+      "size": [
+        555,
+        709
+      ],
+      "thumbSize": [
+        250,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "head-gesture",
+      "src": "/poses/head-gesture.jpg",
+      "thumb": "/poses/head-gesture-thumb.jpg",
+      "sourceFile": "примеры настроения и динамикипозинга.png",
+      "row": 2,
+      "col": 3,
+      "box": [
+        1173,
+        751,
+        1728,
+        1460
+      ],
+      "size": [
+        555,
+        709
+      ],
+      "thumbSize": [
+        250,
+        320
+      ],
+      "usage": "pose_only"
+    },
+    {
+      "id": "stair-lean",
+      "src": "/poses/stair-lean.jpg",
+      "thumb": "/poses/stair-lean-thumb.jpg",
+      "source": "board3",
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "position": 1,
+      "row": 1,
+      "col": 1,
+      "box": [
+        35,
+        11,
+        458,
+        586
+      ],
+      "size": [
+        423,
+        575
+      ],
+      "thumbSize": [
+        235,
+        320
+      ],
+      "checksum": "cdcbe90db6d68ab254c3ab80e6e5896295f9288208757b5959b477a38dbcc729",
+      "thumbChecksum": "d40b3ab09dc942af4d841788bc065a06b29e57f015a1b397b5f133543409202d",
+      "sourceChecksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "usage": "pose_only",
+      "poseDescription": "Широкая постановка ног на ступенях, одно колено выведено вперёд; корпус расположен диагонально, голова развёрнута вбок, руки опущены."
+    },
+    {
+      "id": "walking-pockets",
+      "src": "/poses/walking-pockets.jpg",
+      "thumb": "/poses/walking-pockets-thumb.jpg",
+      "source": "board3",
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "position": 2,
+      "row": 1,
+      "col": 2,
+      "box": [
+        468,
+        11,
+        928,
+        586
+      ],
+      "size": [
+        460,
+        575
+      ],
+      "thumbSize": [
+        256,
+        320
+      ],
+      "checksum": "3d988c7da76c6588436f22ccb4f26de6bc72f5d2a01c4e11ec37a63eafa1eace",
+      "thumbChecksum": "a03f80ba18bb09309e4e93df8f30c09c3d69bf6c2d5193fdd3d6973ee9b46ebf",
+      "sourceChecksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "usage": "pose_only",
+      "poseDescription": "Неспешный шаг в три четверти, обе руки в карманах; корпус слегка отклонён назад, голова наклонена вниз.",
+      "sourceArtifacts": [
+        "Original carousel count 2/5 at upper right",
+        "Original small shopping badge at lower left"
+      ]
+    },
+    {
+      "id": "long-stride",
+      "src": "/poses/long-stride.jpg",
+      "thumb": "/poses/long-stride-thumb.jpg",
+      "source": "board3",
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "position": 3,
+      "row": 1,
+      "col": 3,
+      "box": [
+        930,
+        11,
+        1311,
+        586
+      ],
+      "size": [
+        381,
+        575
+      ],
+      "thumbSize": [
+        212,
+        320
+      ],
+      "checksum": "6f62cc647c7b56b9c14196de537e1ce6b6fc5ff381c7103e1cbc452a74ad0ffa",
+      "thumbChecksum": "a98ab156acdf823b2f658fb26695cfdb4468c98084ea6187ca2486a67e37aa18",
+      "sourceChecksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "usage": "pose_only",
+      "poseDescription": "Широкий шаг, вес смещён на одну ногу; корпус почти вертикален, одна рука свободно отведена в сторону."
+    },
+    {
+      "id": "waist-adjustment",
+      "src": "/poses/waist-adjustment.jpg",
+      "thumb": "/poses/waist-adjustment-thumb.jpg",
+      "source": "board3",
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "position": 4,
+      "row": 1,
+      "col": 4,
+      "box": [
+        1323,
+        22,
+        1775,
+        575
+      ],
+      "size": [
+        452,
+        553
+      ],
+      "thumbSize": [
+        262,
+        320
+      ],
+      "checksum": "4051aee72a63ab8200ed2b03b85e7bbe20a44c9d7a4bbd3609e4e81d2a39132c",
+      "thumbChecksum": "37aeacbbd99e5a8bd4522b03a405e4111e229417b9637c91de65a2633476fa17",
+      "sourceChecksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "usage": "pose_only",
+      "poseDescription": "Кисти собраны у пояса спереди, локти отведены в стороны; плечи развёрнуты по диагонали, подбородок приподнят.",
+      "cropNote": "Black outer frame excluded by rectangular crop; no image retouching."
+    },
+    {
+      "id": "hands-behind",
+      "src": "/poses/hands-behind.jpg",
+      "thumb": "/poses/hands-behind-thumb.jpg",
+      "source": "board3",
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "position": 5,
+      "row": 1,
+      "col": 5,
+      "box": [
+        1783,
+        11,
+        2217,
+        586
+      ],
+      "size": [
+        434,
+        575
+      ],
+      "thumbSize": [
+        242,
+        320
+      ],
+      "checksum": "a58430d72960cb1dfbb698ac3c278e3de1adc2a4257480d9ec4812eb11eaafe8",
+      "thumbChecksum": "3d4eab4d29153073c4c745411584b3d0a47045f7dba661a5764f2d7117e4024e",
+      "sourceChecksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "usage": "pose_only",
+      "poseDescription": "Корпус наклонён вперёд по диагонали; обе руки заведены за поясницу, локти расходятся, вес распределён между ногами неравномерно."
+    },
+    {
+      "id": "forward-athletic",
+      "src": "/poses/forward-athletic.jpg",
+      "thumb": "/poses/forward-athletic-thumb.jpg",
+      "source": "board3",
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "position": 6,
+      "row": 2,
+      "col": 1,
+      "box": [
+        287,
+        603,
+        724,
+        1144
+      ],
+      "size": [
+        437,
+        541
+      ],
+      "thumbSize": [
+        258,
+        320
+      ],
+      "checksum": "a079e1ceacdafb821b9a34fb3bcc45deb1ed3680e907be09d4f84080e30b9e62",
+      "thumbChecksum": "61b6f8b67cc4743569b69f4e742360aee1d4704e2e48e337f4564f76c4aeeaf2",
+      "sourceChecksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "usage": "pose_only",
+      "poseDescription": "Наклон вперёд, мягко согнутые колени и устойчивая широкая стойка; кисти у таза, локти отведены назад."
+    },
+    {
+      "id": "over-shoulder",
+      "src": "/poses/over-shoulder.jpg",
+      "thumb": "/poses/over-shoulder-thumb.jpg",
+      "source": "board3",
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "position": 7,
+      "row": 2,
+      "col": 2,
+      "box": [
+        726,
+        603,
+        1137,
+        1144
+      ],
+      "size": [
+        411,
+        541
+      ],
+      "thumbSize": [
+        243,
+        320
+      ],
+      "checksum": "74b049740b63c8a80da932b0ba5b7f02df6f4db950e62fae09f661eacc537765",
+      "thumbChecksum": "bd351b5047fd764124320b180dca219d6fc2976a6dd721d11319c82eeee55527",
+      "sourceChecksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "usage": "pose_only",
+      "poseDescription": "Спина в три четверти, голова повёрнута через плечо; плечи слегка скручены относительно таза."
+    },
+    {
+      "id": "hip-lean-back",
+      "src": "/poses/hip-lean-back.jpg",
+      "thumb": "/poses/hip-lean-back-thumb.jpg",
+      "source": "board3",
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "position": 8,
+      "row": 2,
+      "col": 3,
+      "box": [
+        1140,
+        603,
+        1501,
+        1144
+      ],
+      "size": [
+        361,
+        541
+      ],
+      "thumbSize": [
+        214,
+        320
+      ],
+      "checksum": "51955a0520c77abcaa5eff61a96626c0e3d7cdc72033edbe4d485b49c947c067",
+      "thumbChecksum": "3573ff211685d2024de55d150133a932bde755dc451de5a5192407d38f419d3a",
+      "sourceChecksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "usage": "pose_only",
+      "poseDescription": "Таз выведен вперёд, верх корпуса отклонён назад, одна рука заведена за спину; голова повёрнута к камере."
+    },
+    {
+      "id": "compact-crouch",
+      "src": "/poses/compact-crouch.jpg",
+      "thumb": "/poses/compact-crouch-thumb.jpg",
+      "source": "board3",
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "position": 9,
+      "row": 2,
+      "col": 4,
+      "box": [
+        1503,
+        603,
+        1907,
+        1144
+      ],
+      "size": [
+        404,
+        541
+      ],
+      "thumbSize": [
+        239,
+        320
+      ],
+      "checksum": "8c5c2b12e57e5f5db0206e9c8a2ccb95d4d976b27b9f8c2e015de2a4834f24b6",
+      "thumbChecksum": "0b97f805d0f336867afa7a267142534361f8b6c76a3f6f8f7502b04353eb34de",
+      "sourceChecksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "usage": "pose_only",
+      "poseDescription": "Глубокий компактный присед: одно колено поднято, предплечье опирается на него, другая рука проходит перед корпусом; взгляд направлен в сторону."
+    }
+  ],
+  "colorManagement": {
+    "outputProfile": "sRGB IEC61966-2.1",
+    "conversion": "embedded source ICC to sRGB, perceptual rendering; no grading",
+    "sources": [
+      {
+        "filename": "примеры настроения и динамики позинга.png",
+        "sha256": "841d04f890a3a6b03beea9316f4dec6361361db8498b5615bf6d04a4515a8cd7",
+        "sourceSize": [
+          2412,
+          1510
+        ],
+        "embeddedProfile": "Display"
+      },
+      {
+        "filename": "примеры настроения и динамикипозинга.png",
+        "sha256": "ff64b0e36ae0a3c079c245275aa509a3bfb5acd1fa9015d56ca91fc693ad78ed",
+        "sourceSize": [
+          1808,
+          1468
+        ],
+        "embeddedProfile": "Display"
+      },
+      {
+        "boardId": "board3",
+        "filename": "Screenshot 2026-11-06 at 13.33.48.png",
+        "sha256": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+        "sourceSize": [
+          2264,
+          1150
+        ],
+        "embeddedProfile": "Display"
+      }
+    ]
+  },
+  "cropConvention": "0-based pixel [left, top, right-exclusive, bottom-exclusive]; row/col 1-based; 1px inside photo boundary to exclude anti-aliased gutters",
+  "usage": "Pose and body gesture reference only; do not inherit face, clothing or logos",
+  "boards": {
+    "board3": {
+      "sourceFile": "Screenshot 2026-11-06 at 13.33.48.png",
+      "sourceSize": [
+        2264,
+        1150
+      ],
+      "checksum": "8c2e8dcfd5ec4b259da4e05e8209ec3d40bc3bf067dc5064855f03c93354bdec",
+      "checksumAlgorithm": "SHA-256",
+      "sourceProfile": "Display",
+      "outputProfile": "sRGB IEC61966-2.1",
+      "positions": "5 photographs in row 1, 4 photographs in row 2; left to right",
+      "usage": "Pose and body gesture reference only; do not inherit identity, clothing, logos or photographed background."
+    }
+  }
+}
